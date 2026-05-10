@@ -1,0 +1,5 @@
+.git
+docker
+node_modules
+.gitignore
+*.md
