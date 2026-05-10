@@ -146,6 +146,3 @@ Refer to `docker-compose.yml` for how these variables are wired into containers.
 - Ollama OOMs or crashes: Ollama needs substantial memory — reduce model size or run Ollama on a machine with more RAM.
 - WebSocket issues: check the backend logs (`docker-compose logs backend`) and confirm Redis/Kafka are reachable.
 
-## License
-
-All rights reserved. This code is provided for viewing and evaluation purposes only. No permission is granted for use, reproduction, or distribution.
