@@ -48,11 +48,13 @@ flowchart LR
 
 - Real-time messaging via WebSockets
 - Message streaming for analytics via Kafka
-- REST API for management and persistence
-- Docker Compose configuration for deployment
-- Full Customizable role support
 - AI assistant and message analysis via Ollama (local LLM AI integration)
 - Persistent storage (Postgres), session/cache (Redis)
+- Docker Compose configuration for deployment
+- Encrypted at REST and in Transit
+- Full Customizable role support with Attribute Based Access control
+- Hybrid access scheme with JWT for authentication and DB for Authorization
+- REST API for management and persistence
 
 ## Getting Started (Docker)
 
